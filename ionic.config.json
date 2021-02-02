@@ -1,5 +1,7 @@
 {
   "name": "ionic-browser-demo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
